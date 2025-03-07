@@ -1,4 +1,4 @@
-# vizitka-2023
+# Vizitka – cvičení na Git
 
 Šablona projektu pro cvičení práce s Gitem.
 
